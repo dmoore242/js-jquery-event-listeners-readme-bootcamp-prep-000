@@ -5,6 +5,10 @@ function getIt () {
   }) 
 }
 
+function frameIt () {
+  $(".tasty").on()
+}
+
 $(document).ready(function(){
 
 // call functions here
